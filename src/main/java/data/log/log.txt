@@ -1,0 +1,342 @@
+logIn;Pedro;driver;17:43:29 | 17/04/2024
+logIn;admin;admin;17:43:35 | 17/04/2024
+noUserFound;logInError;17:43:47 | 17/04/2024
+logIn;Manuel Jose;user;17:44:40 | 17/04/2024
+logIn;admin;admin;17:48:28 | 17/04/2024
+logOut;admin;admin;17:48:31 | 17/04/2024
+logIn;Manuel Jose;user;18:03:13 | 17/04/2024
+newShipment;2480;52251;18:03:22 | 17/04/2024
+logIn;Pedro;user;18:06:42 | 17/04/2024
+newShipment;89315;60979;18:06:51 | 17/04/2024
+logIn;Manuel Jose;user;18:08:42 | 17/04/2024
+newShipment;7803;13601;18:08:49 | 17/04/2024
+logIn;Manuel Jose;user;18:10:54 | 17/04/2024
+newShipment;62462;57264;18:11:03 | 17/04/2024
+noUserFound;logInError;18:35:27 | 17/04/2024
+noUserFound;logInError;18:35:42 | 17/04/2024
+logIn;Manuel Jose;user;18:37:52 | 17/04/2024
+logIn;Pedro;user;18:38:22 | 17/04/2024
+logOut;Pedro;user;18:38:24 | 17/04/2024
+logIn;Pedro;driver;18:58:46 | 17/04/2024
+logOut;Pedro;driver;18:58:49 | 17/04/2024
+logIn;admin;admin;19:04:52 | 17/04/2024
+logOut;admin;admin;19:04:57 | 17/04/2024
+logIn;Pedro;user;20:01:12 | 17/04/2024
+logOut;Pedro;user;20:01:14 | 17/04/2024
+logIn;Manuel Jose;user;13:05:14 | 20/04/2024
+newShipment;0;54360;13:05:47 | 20/04/2024
+logOut;Manuel Jose;user;13:06:28 | 20/04/2024
+logIn;Manuel Jose;user;13:21:19 | 20/04/2024
+newShipment;27097;54360;13:21:28 | 20/04/2024
+logIn;Manuel Jose;user;13:21:50 | 20/04/2024
+logIn;Manuel Jose;user;13:22:49 | 20/04/2024
+logIn;admin;admin;13:23:58 | 20/04/2024
+logOut;admin;admin;13:24:12 | 20/04/2024
+logIn;Pedro;user;13:24:21 | 20/04/2024
+newShipment;54360;27097;13:24:33 | 20/04/2024
+logIn;admin;admin;13:24:43 | 20/04/2024
+logOut;admin;admin;13:24:50 | 20/04/2024
+logIn;Manuel Jose;user;13:24:59 | 20/04/2024
+logIn;Manuel Jose;user;13:32:00 | 20/04/2024
+logOut;Manuel Jose;user;13:32:11 | 20/04/2024
+logIn;admin;admin;17:38:50 | 20/04/2024
+logIn;admin;admin;17:39:37 | 20/04/2024
+logIn;admin;admin;17:52:43 | 22/04/2024
+logOut;admin;admin;17:52:45 | 22/04/2024
+logIn;admin;admin;18:46:52 | 22/04/2024
+logIn;Manuel Jose;user;18:47:35 | 22/04/2024
+logOut;Manuel Jose;user;18:47:37 | 22/04/2024
+noUserFound;logInError;18:50:04 | 22/04/2024
+logIn;Manuel Jose;user;18:50:36 | 22/04/2024
+logOut;Manuel Jose;user;18:50:37 | 22/04/2024
+logIn;Pedro;user;18:51:26 | 22/04/2024
+logOut;Pedro;user;18:51:28 | 22/04/2024
+logIn;Pedro;user;18:52:44 | 22/04/2024
+logOut;Pedro;user;18:52:45 | 22/04/2024
+logIn;Manuel Jose;user;18:56:54 | 22/04/2024
+logOut;Manuel Jose;user;18:56:55 | 22/04/2024
+logIn;Pedro;user;19:00:20 | 22/04/2024
+logOut;Pedro;user;19:00:21 | 22/04/2024
+logIn;Pedro;user;19:03:41 | 22/04/2024
+logOut;Pedro;user;19:03:42 | 22/04/2024
+logIn;Pedro;user;19:05:10 | 22/04/2024
+logOut;Pedro;user;19:05:11 | 22/04/2024
+logIn;Pedro;user;19:06:20 | 22/04/2024
+logOut;Pedro;user;19:06:22 | 22/04/2024
+logIn;Pedro;user;19:07:34 | 22/04/2024
+logOut;Pedro;user;19:07:36 | 22/04/2024
+logIn;Pedro;user;19:15:06 | 22/04/2024
+logOut;Pedro;user;19:15:07 | 22/04/2024
+logIn;Pedro;user;19:16:32 | 22/04/2024
+logOut;Pedro;user;19:16:33 | 22/04/2024
+logIn;Pedro;user;19:20:34 | 22/04/2024
+logOut;Pedro;user;19:20:35 | 22/04/2024
+logIn;Pedro;user;19:21:29 | 22/04/2024
+logOut;Pedro;user;19:21:30 | 22/04/2024
+logIn;Pedro;user;19:22:30 | 22/04/2024
+logOut;Pedro;user;19:22:32 | 22/04/2024
+logIn;Manuel Jose;user;19:23:07 | 22/04/2024
+logOut;Manuel Jose;user;19:23:09 | 22/04/2024
+logIn;Pedro;user;19:23:27 | 22/04/2024
+logOut;Pedro;user;19:23:29 | 22/04/2024
+logIn;Manuel Jose;user;19:25:19 | 22/04/2024
+logOut;Manuel Jose;user;19:25:20 | 22/04/2024
+logIn;Manuel Jose;user;19:29:31 | 22/04/2024
+logIn;Manuel Jose;user;19:30:41 | 22/04/2024
+logIn;Pedro;user;19:31:51 | 22/04/2024
+logIn;admin;admin;19:38:59 | 22/04/2024
+noUserFound;logInError;17:40:37 | 23/04/2024
+logIn;Manuel Jose;user;17:46:08 | 23/04/2024
+logOut;Manuel Jose;user;17:46:16 | 23/04/2024
+noUserFound;logInError;17:49:27 | 23/04/2024
+noUserFound;logInError;17:49:38 | 23/04/2024
+noUserFound;logInError;17:52:39 | 23/04/2024
+noUserFound;logInError;17:54:46 | 23/04/2024
+noUserFound;logInError;17:57:00 | 23/04/2024
+noUserFound;logInError;17:58:35 | 23/04/2024
+noUserFound;logInError;17:59:22 | 23/04/2024
+noUserFound;logInError;18:00:10 | 23/04/2024
+noUserFound;logInError;18:00:41 | 23/04/2024
+noUserFound;logInError;18:00:55 | 23/04/2024
+noUserFound;logInError;18:03:13 | 23/04/2024
+noUserFound;logInError;18:03:21 | 23/04/2024
+noUserFound;logInError;18:05:48 | 23/04/2024
+noUserFound;logInError;18:06:52 | 23/04/2024
+noUserFound;logInError;18:06:57 | 23/04/2024
+noUserFound;logInError;18:07:03 | 23/04/2024
+noUserFound;logInError;18:07:42 | 23/04/2024
+noUserFound;logInError;18:08:30 | 23/04/2024
+logIn;Pedro;user;18:10:18 | 23/04/2024
+logIn;Pedro;driver;18:11:11 | 23/04/2024
+logOut;Pedro;driver;18:11:13 | 23/04/2024
+noUserFound;logInError;18:11:16 | 23/04/2024
+logIn;admin;admin;18:12:42 | 23/04/2024
+logIn;Manuel Jose;user;18:13:45 | 23/04/2024
+logIn;Pedro;user;18:14:10 | 23/04/2024
+logOut;Pedro;user;18:14:12 | 23/04/2024
+logIn;Manuel Jose;user;18:27:36 | 23/04/2024
+logOut;Manuel Jose;user;18:27:41 | 23/04/2024
+logIn;Manuel Jose;user;18:27:49 | 23/04/2024
+logOut;Manuel Jose;user;18:27:53 | 23/04/2024
+logIn;admin;admin;18:50:17 | 23/04/2024
+logIn;admin;admin;18:51:37 | 23/04/2024
+logIn;admin;admin;18:52:26 | 23/04/2024
+logIn;admin;admin;18:55:14 | 23/04/2024
+logIn;admin;admin;18:56:08 | 23/04/2024
+logIn;admin;admin;18:56:41 | 23/04/2024
+logIn;admin;admin;18:57:16 | 23/04/2024
+logIn;Manuel Jose;user;08:20:53 | 24/04/2024
+logOut;Manuel Jose;user;08:21:17 | 24/04/2024
+logIn;Manuel Jose;user;14:37:15 | 25/04/2024
+logIn;Manuel Jose;user;12:43:27 | 29/04/2024
+logOut;Manuel Jose;user;12:43:47 | 29/04/2024
+noUserFound;logInError;12:43:58 | 29/04/2024
+logIn;admin;admin;12:44:01 | 29/04/2024
+logOut;admin;admin;12:44:15 | 29/04/2024
+logIn;Pedro;driver;12:44:26 | 29/04/2024
+logIn;Manuel Jose;user;18:19:56 | 29/04/2024
+logIn;Manuel Jose;user;18:24:38 | 29/04/2024
+logIn;Manuel Jose;user;18:26:31 | 29/04/2024
+logOut;Manuel Jose;user;18:26:33 | 29/04/2024
+logIn;Manuel Jose;user;19:40:17 | 02/05/2024
+logIn;Manuel Jose;user;19:49:15 | 02/05/2024
+logOut;Manuel Jose;user;19:49:25 | 02/05/2024
+logIn;admin;admin;19:49:36 | 02/05/2024
+logOut;admin;admin;19:49:52 | 02/05/2024
+logIn;Pedro;driver;19:49:59 | 02/05/2024
+logIn;admin;admin;19:52:08 | 02/05/2024
+logOut;admin;admin;19:52:15 | 02/05/2024
+noUserFound;logInError;19:52:21 | 02/05/2024
+logIn;Pedro;driver;19:52:27 | 02/05/2024
+logIn;Pedro;driver;19:55:20 | 02/05/2024
+logOut;Pedro;driver;19:55:39 | 02/05/2024
+logIn;Manuel Jose;user;19:55:47 | 02/05/2024
+logIn;admin;admin;19:58:59 | 02/05/2024
+logOut;admin;admin;19:59:08 | 02/05/2024
+logIn;Pedro;driver;19:59:14 | 02/05/2024
+logIn;Pedro;driver;20:00:55 | 02/05/2024
+logOut;Pedro;driver;20:01:10 | 02/05/2024
+logIn;admin;admin;20:01:15 | 02/05/2024
+logIn;admin;admin;20:04:31 | 02/05/2024
+logIn;Pedro;driver;18:05:44 | 03/05/2024
+updateShipment;54360;2204;Sin asignar;18:06:41 | 03/05/2024
+logIn;Pedro;driver;18:12:26 | 03/05/2024
+updateShipment;54360;2204;Sin asignar;18:12:30 | 03/05/2024
+logOut;Pedro;driver;18:12:46 | 03/05/2024
+logIn;admin;admin;18:12:49 | 03/05/2024
+logOut;admin;admin;18:13:00 | 03/05/2024
+logIn;Manuel Jose;user;18:13:11 | 03/05/2024
+logIn;Manuel Jose;user;18:16:33 | 03/05/2024
+newShipment;1732;9445;18:16:42 | 03/05/2024
+logOut;Manuel Jose;user;18:16:46 | 03/05/2024
+logIn;Pedro;user;18:16:53 | 03/05/2024
+logOut;Pedro;user;18:17:03 | 03/05/2024
+logIn;admin;admin;18:17:07 | 03/05/2024
+logOut;admin;admin;18:17:14 | 03/05/2024
+logIn;Pedro;driver;18:17:27 | 03/05/2024
+logIn;Pedro;driver;18:20:41 | 03/05/2024
+logOut;Pedro;driver;18:20:45 | 03/05/2024
+logIn;admin;admin;18:20:49 | 03/05/2024
+logOut;admin;admin;18:20:53 | 03/05/2024
+logIn;Pedro;user;18:21:00 | 03/05/2024
+logIn;Manuel Jose;user;18:28:38 | 03/05/2024
+newShipment;1732;9445;18:28:47 | 03/05/2024
+logOut;Manuel Jose;user;18:29:00 | 03/05/2024
+logIn;admin;admin;18:29:04 | 03/05/2024
+logOut;admin;admin;18:29:12 | 03/05/2024
+logIn;Pedro;driver;18:29:20 | 03/05/2024
+logOut;Pedro;driver;18:29:27 | 03/05/2024
+logIn;Pedro;driver;18:29:40 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:29:53 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:29:53 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:29:53 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:29:53 | 03/05/2024
+logIn;Pedro;driver;18:30:29 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:30:36 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:30:36 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:30:36 | 03/05/2024
+updateShipment;1732;3028;En oficina de origen;18:30:44 | 03/05/2024
+logIn;Pedro;driver;18:31:59 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:32:10 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:32:10 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:32:10 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:32:10 | 03/05/2024
+logIn;Pedro;driver;18:32:27 | 03/05/2024
+logOut;Pedro;driver;18:32:36 | 03/05/2024
+logIn;Pedro;user;18:32:47 | 03/05/2024
+logIn;Pedro;driver;18:34:43 | 03/05/2024
+logIn;Pedro;driver;18:34:57 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:35:01 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:35:01 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:35:01 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:35:01 | 03/05/2024
+logIn;Pedro;user;18:36:02 | 03/05/2024
+logOut;Pedro;user;18:36:17 | 03/05/2024
+logIn;Pedro;driver;18:36:23 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:36:27 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:36:27 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:36:27 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:36:27 | 03/05/2024
+logIn;Pedro;driver;18:36:39 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:36:42 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:36:42 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:36:42 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:37:27 | 03/05/2024
+logIn;Pedro;driver;18:40:10 | 03/05/2024
+updateShipment;1732;3028;Sin asignar;18:40:14 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:40:14 | 03/05/2024
+updateShipment;1732;3028;En reparto;18:40:14 | 03/05/2024
+logOut;Pedro;driver;18:40:17 | 03/05/2024
+logIn;Pedro;user;18:40:51 | 03/05/2024
+logIn;Manuel Jose;user;18:42:03 | 03/05/2024
+newShipment;81610;79582;18:42:15 | 03/05/2024
+logOut;Manuel Jose;user;18:42:19 | 03/05/2024
+logIn;admin;admin;18:42:30 | 03/05/2024
+logOut;admin;admin;18:42:45 | 03/05/2024
+logIn;Pedro;driver;18:42:52 | 03/05/2024
+logOut;Pedro;driver;18:42:57 | 03/05/2024
+logIn;Pedro;driver;18:43:09 | 03/05/2024
+updateShipment;81610;8686;Sin asignar;18:43:13 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;18:43:13 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;18:43:13 | 03/05/2024
+logOut;Pedro;driver;18:43:16 | 03/05/2024
+logIn;Pedro;user;18:43:36 | 03/05/2024
+logIn;Manuel Jose;user;18:43:58 | 03/05/2024
+logIn;Manuel Jose;user;18:44:47 | 03/05/2024
+newShipment;81610;79582;18:44:53 | 03/05/2024
+logOut;Manuel Jose;user;18:44:55 | 03/05/2024
+logIn;admin;admin;18:44:58 | 03/05/2024
+logIn;Pedro;driver;18:58:15 | 03/05/2024
+updateShipment;81610;8686;Sin asignar;18:58:20 | 03/05/2024
+updateShipment;81610;8686;En reparto;18:58:20 | 03/05/2024
+updateShipment;81610;8686;En reparto;18:58:20 | 03/05/2024
+logOut;Pedro;driver;18:58:28 | 03/05/2024
+logIn;Pedro;user;18:58:40 | 03/05/2024
+logIn;Pedro;driver;19:01:56 | 03/05/2024
+updateShipment;81610;8686;Sin asignar;19:02:00 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;19:02:00 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;19:02:00 | 03/05/2024
+logOut;Pedro;driver;19:02:03 | 03/05/2024
+logIn;Pedro;user;19:02:17 | 03/05/2024
+newShipment;79582;81610;19:02:26 | 03/05/2024
+logIn;Pedro;driver;19:05:05 | 03/05/2024
+updateShipment;81610;8686;Sin asignar;19:05:08 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;19:05:53 | 03/05/2024
+updateShipment;81610;8686;En oficina de origen;19:06:21 | 03/05/2024
+logIn;Manuel Jose;user;19:13:34 | 03/05/2024
+newShipment;35766;44867;19:13:41 | 03/05/2024
+logOut;Manuel Jose;user;19:13:45 | 03/05/2024
+logIn;admin;admin;19:13:49 | 03/05/2024
+logOut;admin;admin;19:13:57 | 03/05/2024
+logIn;Pedro;user;19:14:23 | 03/05/2024
+logIn;Pedro;user;19:20:00 | 03/05/2024
+logOut;Pedro;user;19:20:07 | 03/05/2024
+logIn;Pedro;driver;19:20:12 | 03/05/2024
+updateShipment;35766;2550;Asignado al conductor;19:20:15 | 03/05/2024
+updateShipment;35766;2550;En oficina de origen;19:20:15 | 03/05/2024
+updateShipment;35766;2550;En oficina de origen;19:20:15 | 03/05/2024
+logOut;Pedro;driver;19:20:19 | 03/05/2024
+logIn;Pedro;user;19:20:34 | 03/05/2024
+logOut;Pedro;user;19:20:40 | 03/05/2024
+logIn;Manuel Jose;user;19:20:47 | 03/05/2024
+logIn;admin;admin;11:40:06 | 04/05/2024
+logIn;admin;admin;11:40:50 | 04/05/2024
+logIn;admin;admin;11:41:10 | 04/05/2024
+logIn;admin;admin;11:42:00 | 04/05/2024
+logIn;Pedro;user;17:46:59 | 06/05/2024
+newShipment;0;35766;17:47:35 | 06/05/2024
+logOut;Pedro;user;17:47:39 | 06/05/2024
+logIn;admin;admin;17:48:02 | 06/05/2024
+logIn;Pedro;user;17:48:56 | 06/05/2024
+logOut;Pedro;user;17:49:07 | 06/05/2024
+logIn;admin;admin;17:49:11 | 06/05/2024
+logIn;admin;admin;17:50:12 | 06/05/2024
+logIn;admin;admin;17:51:12 | 06/05/2024
+logIn;admin;admin;17:52:49 | 06/05/2024
+logIn;admin;admin;17:53:26 | 06/05/2024
+logIn;admin;admin;17:54:24 | 06/05/2024
+logIn;admin;admin;17:55:47 | 06/05/2024
+logIn;admin;admin;17:56:45 | 06/05/2024
+logIn;Pedro;driver;17:58:12 | 06/05/2024
+updateShipment;35766;2550;En oficina de origen;17:58:24 | 06/05/2024
+updateShipment;35766;2550;En reparto;17:58:24 | 06/05/2024
+updateShipment;35766;2550;En reparto;17:58:24 | 06/05/2024
+updateShipment;35766;2550;En reparto;17:59:02 | 06/05/2024
+updateShipment;35766;2550;En reparto;17:59:02 | 06/05/2024
+updateShipment;35766;2550;En reparto;17:59:02 | 06/05/2024
+logIn;Pedro;driver;18:01:13 | 06/05/2024
+logIn;Pedro;driver;18:02:10 | 06/05/2024
+updateShipment;0;9762;Asignado al conductor;18:02:16 | 06/05/2024
+logIn;Pedro;driver;18:02:55 | 06/05/2024
+updateShipment;0;9762;Asignado al conductor;18:03:02 | 06/05/2024
+logIn;Pedro;driver;18:03:58 | 06/05/2024
+updateShipment;0;9762;Asignado al conductor;18:04:05 | 06/05/2024
+logIn;Pedro;driver;18:07:36 | 06/05/2024
+updateShipment;0;9762;Asignado al conductor;18:07:46 | 06/05/2024
+updateShipment;0;9762;En reparto;18:07:48 | 06/05/2024
+updateShipment;0;9762;En reparto;18:07:48 | 06/05/2024
+logIn;Pedro;driver;18:09:36 | 06/05/2024
+updateShipment;0;9762;En reparto;18:09:43 | 06/05/2024
+updateShipment;0;9762;En reparto;18:09:45 | 06/05/2024
+updateShipment;0;9762;En reparto;18:09:45 | 06/05/2024
+logIn;Pedro;driver;18:11:47 | 06/05/2024
+updateShipment;0;9762;Entregado;18:11:54 | 06/05/2024
+updateShipment;0;9762;Entregado;18:11:57 | 06/05/2024
+updateShipment;0;9762;Entregado;18:11:57 | 06/05/2024
+logIn;admin;admin;18:13:36 | 06/05/2024
+logIn;admin;admin;18:18:43 | 06/05/2024
+logIn;Pedro;driver;18:22:28 | 06/05/2024
+logOut;Pedro;driver;18:22:32 | 06/05/2024
+logIn;admin;admin;18:22:34 | 06/05/2024
+logIn;admin;admin;18:23:00 | 06/05/2024
+logIn;admin;admin;18:24:21 | 06/05/2024
+logIn;Pedro;user;22:14:18 | 06/05/2024
+logOut;Pedro;user;22:14:19 | 06/05/2024
+noUserFound;logInError;00:50:50 | 07/05/2024
+logIn;admin;admin;00:50:58 | 07/05/2024
+logIn;admin;admin;00:59:18 | 07/05/2024
+logIn;admin;admin;01:03:19 | 07/05/2024
+closeSystemadmin;admin;01:03:26 | 07/05/2024
+logIn;Manuel Jose;user;01:03:34 | 07/05/2024
+logOut;Manuel Jose;user;01:03:39 | 07/05/2024
+logIn;admin;admin;01:04:29 | 07/05/2024

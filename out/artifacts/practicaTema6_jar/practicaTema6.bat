@@ -1,0 +1,1 @@
+java -jar practicaTema6.jar
